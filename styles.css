@@ -80,4 +80,5 @@ background: url(images/tom1.png);
   text-align: center;
   margin: 10px;
   background-color: white;
+  cursor: pointer;
 }
